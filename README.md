@@ -12,3 +12,5 @@ Built Python Pulsar Client
 
 * https://www.adafruit.com/product/4374
 * https://learn.adafruit.com/adafruit-braincraft-hat-easy-machine-learning-for-raspberry-pi
+* https://learn.adafruit.com/edge-speech-recognition-with-voice2json
+* http://voice2json.org/
